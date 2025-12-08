@@ -90,6 +90,7 @@ if __name__ == "__main__":
     # 1. 在这里定义你要抓取的 RSS 链接列表
     # 请务必将下面的链接替换成你真实的 RSS 地址
     my_rss_list = [
+        "https://theinitium.com/zh-hans/rss/",
         "https://sspai.com/feed",   # 第一个链接：少数派
         "https://www.zhihu.com/rss",             # 第二个链接：知乎 (或者你可以换成其他)
     ]
