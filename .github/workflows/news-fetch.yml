@@ -3,7 +3,7 @@ name: 自动抓取新闻
 on:
   schedule:
     # 每天在北京时间8点触发
-    - cron: '0 0 8 * * *'  # GitHub Actions 是基于 UTC 时间的，8点北京时间是0点UTC
+    - cron: '0 0 * * *'  # GitHub Actions 是基于 UTC 时间的，8点北京时间是0点UTC
   workflow_dispatch:  # 允许手动触发工作流
 
 jobs:
