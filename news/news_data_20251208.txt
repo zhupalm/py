@@ -1,6 +1,69 @@
 === 新闻抓取报告 ===
-抓取时间: 2025-12-08 14:59:17
+抓取时间: 2025-12-08 15:05:29
 ==============================
+
+来源: 端傳媒 Initium Media
+链接: https://theinitium.com/zh-hans/rss/
+--------------------
+标题: 大火后，香港立法会选举如期举行
+时间: Mon, 08 Dec 2025 09:33:32 GMT
+链接: https://theinitium.com/20251208-weekly-zh-hans/
+
+标题: 2025香港立法会选举：投票率31.9%略增，投票人数跌3.3万人｜Whatsnew
+时间: Mon, 08 Dec 2025 04:18:45 GMT
+链接: https://theinitium.com/20251208-hongkong-2025legco-election-results-zh-hans/
+
+标题: 泽连斯基首席幕僚叶尔马克辞职：最大规模贪腐案引爆政坛「迷你地震」｜Whatsnew
+时间: Mon, 08 Dec 2025 02:04:24 GMT
+链接: https://theinitium.com/20251205-whatsnew-zelensky-yermak-corruption-resign-zh-hans/
+
+标题: 当“逃离内卷”的中国电动车品牌，在泰国市场“输出内卷”
+时间: Sun, 07 Dec 2025 23:00:59 GMT
+链接: https://theinitium.com/20251208-international-chinese-ev-in-thailand-zh-hans/
+
+标题: 火灾阴霾下的香港立法会选举，大埔人投票吗？
+时间: Sun, 07 Dec 2025 16:44:24 GMT
+链接: https://theinitium.com/20251208-hongkong-legco-and-taipo-fire-zh-hans/
+
+标题: 鲜花与纸鹤：大埔火灾悼念区，留言凉亭完场前的公众心声
+时间: Sun, 07 Dec 2025 05:19:27 GMT
+链接: https://theinitium.com/20251207-hongkong-taipo-fire-public-condolences-zh-hans/
+
+标题: 他们见证大埔火灾：在任何可能的时候，让交流流动起来
+时间: Sat, 06 Dec 2025 23:00:59 GMT
+链接: https://theinitium.com/20251207-hongkong-how-did-they-witness-the-taipo-fire-zh-hans/
+
+标题: “竹竿和屁股”：一场亚裔only的钢管舞体验课
+时间: Sat, 06 Dec 2025 02:24:23 GMT
+链接: https://theinitium.com/20251206-stranger-asian-only-pole-dance-class-in-brussels-zh-hans/
+
+标题: 跨界造车，小米电车的成功还能持续多久？｜端闻 Podcast
+时间: Fri, 05 Dec 2025 12:30:45 GMT
+链接: https://theinitium.com/20251205-initium-audio-mainland-the-rise-and-troubles-of-xiaomi-zh-hans/
+
+标题: 祝融之后，尚未完结的问题
+时间: Fri, 05 Dec 2025 09:50:11 GMT
+链接: https://theinitium.com/20251205-weekly-zh-hans/
+
+标题: 雪豹、牧民与被咬死的羊
+时间: Thu, 04 Dec 2025 23:00:07 GMT
+链接: https://theinitium.com/20251205-mainland-pastoralist-snow-leopard-and-sheep-zh-hans/
+
+标题: 《风继续吹》影评：英国反移民浪潮下的香港难民
+时间: Thu, 04 Dec 2025 22:58:28 GMT
+链接: https://theinitium.com/20251205-opinion-no-time-for-goodbye-review-zh-hans/
+
+标题: 1.25兆国防预算遭挡，在野立委要赖清德「即问即答」惹违宪争议｜Whatsnew
+时间: Thu, 04 Dec 2025 09:53:25 GMT
+链接: https://theinitium.com/20251204-whatsnew-taiwan-special-defense-budget-blocked-zh-hans/
+
+标题: 从「来都来了」到「能省就省」，疫情后中国旅游业复苏了吗？
+时间: Wed, 03 Dec 2025 23:00:15 GMT
+链接: https://theinitium.com/20251204-mainland-has-the-tourism-industry-in-china-recovered-zh-hans/
+
+标题: COP30气候大会要点快读：气候融资现进展，化石能源淘汰无期｜Whatsnew
+时间: Wed, 03 Dec 2025 22:58:52 GMT
+链接: https://theinitium.com/20251204-whatsnew-international-cop30-climate-change-conference-zh-hans/
 
 来源: 少数派
 链接: https://sspai.com/feed
@@ -45,5 +108,5 @@
 时间: Fri, 05 Dec 2025 08:48:33 +0800
 链接: https://sspai.com/post/104327
 
-Source 2: 抓取失败或无内容 (https://www.zhihu.com/rss)
+Source 3: 抓取失败或无内容 (https://www.zhihu.com/rss)
 
