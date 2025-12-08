@@ -3,31 +3,26 @@
 name: RSS News Fetcher (定时抓取新闻)
 
 # --- 1. 触发器配置 (Schedule) ---
-# 定义工作流的运行时间。
-# cron 表达式的格式: minute hour day_of_month month day_of_week
-# '0 0 * * *' 表示每天 UTC 时间 00:00 运行。
-# 北京时间 (BJT) 是 UTC+8。所以 BJT 8:00 AM 对应 UTC 00:00 AM。
 on:
   schedule:
     # 每天 UTC 00:00 运行，即北京时间 (UTC+8) 每天早上 8 点
-    - cron: '0 0 * * *' 
+    - cron: '0 0 * * *'
   # 也可以手动触发，方便调试
   workflow_dispatch:
 
 # --- 2. 运行的工作 (Jobs) ---
 jobs:
   build:
-    runs-on: ubuntu-latest # 使用最新的 Ubuntu 虚拟机运行
+    runs-on: ubuntu-latest
     permissions:
-      contents: write # 授予对仓库内容（文件）的写入权限
+      contents: write
     # 设置环境变量 (可选，但推荐)
     env:
-      # 为了确保安装的依赖能够被找到
-      PYTHONIOENCODING: utf-8 
-      
+      PYTHONIOENCODING: utf-8
+
     # --- 3. 运行步骤 (Steps) ---
     steps:
-    
+
     # 步骤 A: 检出代码
     - name: Checkout repository
       uses: actions/checkout@v4
@@ -37,27 +32,22 @@ jobs:
       uses: actions/setup-python@v5
       with:
         # 使用 Python 3.10
-        python-version: '3.10' 
-        
+        python-version: '3.10'
+
     # 步骤 C: 安装依赖
     - name: Install dependencies
       run: |
-        # 这一步需要你的 Python 脚本名和依赖库
         # 你的脚本中使用了：feedparser
         pip install feedparser
-        # 如果你有很多依赖，推荐使用 requirements.txt 文件来安装：pip install -r requirements.txt
 
-    # 步骤 D: 执行 Python 脚本
+    # 步骤 D: 执行 Python 脚本 (修正: 脚本路径在 news/ 目录下)
     - name: Run the Python script
-      # 替换为你的 Python 脚本的实际文件名
-      run: python ./news/rss_scraper.py 
+      # 确保路径是相对于仓库根目录的正确路径
+      run: python ./news/rss_scraper.py
 
-    # 步骤 E: 提交更新后的文件 (最重要的一步)
-    # 脚本运行后会生成 news_data_YYYYMMDD.txt，需要将其提交回仓库
+    # 步骤 E: 提交更新后的文件 (修正: 确保提交的消息和目标分支正确)
     - name: Commit and Push changes
       uses: stefanzweifel/git-auto-commit-action@v5
       with:
         # 提交的消息
         commit_message: "🤖 Feat: Auto-fetch RSS news data (Scheduled Run)"
-        # 自动将所有更改的文件提交并推送到当前分支
-        branch: main/news/ # 确保你的主分支名称正确，可能是 main 或 master
