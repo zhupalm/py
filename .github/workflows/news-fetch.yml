@@ -50,7 +50,7 @@ jobs:
     # 步骤 D: 执行 Python 脚本
     - name: Run the Python script
       # 替换为你的 Python 脚本的实际文件名
-      run: python rss_scraper.py 
+      run: python ./news/rss_scraper.py 
 
     # 步骤 E: 提交更新后的文件 (最重要的一步)
     # 脚本运行后会生成 news_data_YYYYMMDD.txt，需要将其提交回仓库
@@ -60,4 +60,4 @@ jobs:
         # 提交的消息
         commit_message: "🤖 Feat: Auto-fetch RSS news data (Scheduled Run)"
         # 自动将所有更改的文件提交并推送到当前分支
-        branch: main # 确保你的主分支名称正确，可能是 main 或 master
+        branch: main/news/ # 确保你的主分支名称正确，可能是 main 或 master
