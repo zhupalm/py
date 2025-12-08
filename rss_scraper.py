@@ -97,7 +97,7 @@ if __name__ == "__main__":
     current_date_str = datetime.datetime.now().strftime('%Y%m%d')
     
     # 3. 定义目标文件夹路径 (请务必修改成你希望保存文件的实际路径！)
-    target_directory = "./NewsReports" 
+    target_directory = "." 
     
     # 4. 动态生成文件名，例如 news_data_20251208.txt
     filename = f"news_data_{current_date_str}.txt"
