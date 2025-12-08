@@ -24,10 +24,11 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt  # 如果有依赖，确保你有一个 requirements.txt 文件
 
-      - name: Run the script
+      - name: Run the script and push changes
         run: |
           python fetch_rss.py  # 运行你的 Python 脚本
-        git config --global user.email 'your-email@example.com'
-        git add .
-        git commit -m '更新抓取的新闻'
-        git push
+          git config --global user.email 'your-email@example.com'  # 配置 Git 用户信息
+          git config --global user.name 'your-username'            # 配置 Git 用户名
+          git add .
+          git commit -m '更新抓取的新闻'
+          git push
