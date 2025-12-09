@@ -1,10 +1,14 @@
 === 新闻抓取报告 ===
-抓取时间: 2025-12-09 03:43:36
+抓取时间: 2025-12-09 13:06:55
 ==============================
 
 来源: 端傳媒 Initium Media
 链接: https://theinitium.com/zh-hans/rss/
 --------------------
+标题: 战争罪或法外谋杀？美军加勒比海扫毒行动，防长角色与正当性惹议｜Whatsnew
+时间: Tue, 09 Dec 2025 11:00:10 GMT
+链接: https://theinitium.com/20251209-whatsnew-us-caribbean-strike-survivor-hegseth-order-zh-hans/
+
 标题: 中国违法记录将被封存：争议如何转移到吸毒？封存又意味着什么？
 时间: Mon, 08 Dec 2025 23:00:34 GMT
 链接: https://theinitium.com/20251209-mainland-new-offences-record-sealing-draws-backlash-zh-hans/
@@ -61,13 +65,21 @@
 时间: Fri, 05 Dec 2025 09:50:11 GMT
 链接: https://theinitium.com/20251205-weekly-zh-hans/
 
-标题: 雪豹、牧民与被咬死的羊
-时间: Thu, 04 Dec 2025 23:00:07 GMT
-链接: https://theinitium.com/20251205-mainland-pastoralist-snow-leopard-and-sheep-zh-hans/
-
 来源: 少数派
 链接: https://sspai.com/feed
 --------------------
+标题: 社区速递 121 | 冬季火锅吃什么、一周热评以及把 Mac mini 变成麦金塔
+时间: Tue, 09 Dec 2025 17:00:00 +0800
+链接: https://sspai.com/post/104462
+
+标题: App+1｜当 AI 与 FSRS 算法碰撞：「新词」让记单词回归语境
+时间: Tue, 09 Dec 2025 15:41:15 +0800
+链接: https://sspai.com/post/104366
+
+标题: 少数派 × 暖风家｜大湾区首家墨水屏综合体验中心即将上线
+时间: Tue, 09 Dec 2025 11:30:00 +0800
+链接: https://sspai.com/post/104406
+
 标题: 派早报：Meta 承诺向欧盟用户提供合规的个性化广告选项等
 时间: Tue, 09 Dec 2025 08:23:16 +0800
 链接: https://sspai.com/post/104442
@@ -96,17 +108,34 @@
 时间: Sat, 06 Dec 2025 15:13:20 +0800
 链接: https://sspai.com/post/104274
 
-标题: 本周看什么 | 最近值得一看的 9 部作品
-时间: Fri, 05 Dec 2025 18:05:34 +0800
-链接: https://sspai.com/post/104363
+来源: 中国数字时代
+链接: https://chinadigitaltimes.net/chinese/feed
+--------------------
+标题: 空瓶子｜贩卖个人信息获利十余万，唐山俩辅警获刑
+时间: Tue, 09 Dec 2025 11:57:22 +0000
+链接: https://chinadigitaltimes.net/chinese/723331.html
 
-标题: App Store Awards 年度应用大奖出炉，今年有什么不一样？
-时间: Fri, 05 Dec 2025 15:44:09 +0800
-链接: https://sspai.com/post/104350
+标题: 科海识贝｜三个号，永久封禁
+时间: Tue, 09 Dec 2025 10:54:16 +0000
+链接: https://chinadigitaltimes.net/chinese/723329.html
 
-标题: 少数派 12 月主题征稿：互联网「羊毛」、年度游戏、好用但停更的 app……
-时间: Fri, 05 Dec 2025 11:30:00 +0800
-链接: https://sspai.com/post/104329
+标题: 智识漂流｜卢克文工作室被封：一个“地摊战略家”的破产
+时间: Tue, 09 Dec 2025 10:48:24 +0000
+链接: https://chinadigitaltimes.net/chinese/723324.html
 
-Source 3: 抓取失败或无内容 (https://www.zhihu.com/rss)
+标题: 【CDT报告汇】9to5Mac：如果苹果选择像在美国、英国和印度那样对抗中国政府，会发生什么？
+时间: Tue, 09 Dec 2025 01:10:44 +0000
+链接: https://chinadigitaltimes.net/chinese/723320.html
+
+标题: 每日一语 2025.12.7
+时间: Mon, 08 Dec 2025 18:26:13 +0000
+链接: https://chinadigitaltimes.net/chinese/723318.html
+
+标题: 每日一语 2025.12.8
+时间: Mon, 08 Dec 2025 17:53:30 +0000
+链接: https://chinadigitaltimes.net/chinese/723316.html
+
+标题: 四环青年｜“高铁定向班”也有五人组？造假成本太低
+时间: Mon, 08 Dec 2025 16:13:01 +0000
+链接: https://chinadigitaltimes.net/chinese/723314.html
 
