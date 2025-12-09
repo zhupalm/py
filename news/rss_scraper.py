@@ -92,7 +92,7 @@ if __name__ == "__main__":
     my_rss_list = [
         "https://theinitium.com/zh-hans/rss/",
         "https://sspai.com/feed",   # 第一个链接：少数派
-        "https://www.zhihu.com/rss",             # 第二个链接：知乎 (或者你可以换成其他)
+        "https://chinadigitaltimes.net/chinese/feed",             # 第二个链接：知乎 (或者你可以换成其他)
     ]
     # 2. 获取当前日期 (格式为 YYYYMMDD)
     current_date_str = datetime.datetime.now().strftime('%Y%m%d')
