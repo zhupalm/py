@@ -90,9 +90,9 @@ if __name__ == "__main__":
     # 1. 在这里定义你要抓取的 RSS 链接列表
     # 请务必将下面的链接替换成你真实的 RSS 地址
     my_rss_list = [
-        "https://theinitium.com/zh-hans/rss/",
-        "https://sspai.com/feed",   # 第一个链接：少数派
-        "https://chinadigitaltimes.net/chinese/feed",             # 第二个链接：知乎 (或者你可以换成其他)
+        "https://chinadigitaltimes.net/chinese/feed",
+        "https://theinitium.com/zh-hans/rss/",   # 第一个链接：少数派
+        "https://sspai.com/feed",             # 第二个链接：知乎 (或者你可以换成其他)
     ]
     # 2. 获取当前日期 (格式为 YYYYMMDD)
     current_date_str = datetime.datetime.now().strftime('%Y%m%d')
