@@ -1,0 +1,141 @@
+=== 新闻抓取报告 ===
+抓取时间: 2025-12-28 04:13:52
+==============================
+
+来源: 中国数字时代
+链接: https://chinadigitaltimes.net/chinese/feed
+--------------------
+标题: 情况有点复杂｜媒体曝光后仍无解，村民视频屡遭下架
+时间: Sat, 27 Dec 2025 23:18:16 +0000
+链接: https://chinadigitaltimes.net/chinese/723980.html
+
+标题: 就叫熊太行也行｜南京博物院的事，一定要一分为二地看
+时间: Sat, 27 Dec 2025 23:04:41 +0000
+链接: https://chinadigitaltimes.net/chinese/723978.html
+
+标题: 智识漂流｜快手“色情劫”
+时间: Sat, 27 Dec 2025 22:57:40 +0000
+链接: https://chinadigitaltimes.net/chinese/723976.html
+
+标题: 常识和洞见｜“独身女子逝世，买不买墓碑”，是一道关系到每个人的中国墓地伦理题
+时间: Sat, 27 Dec 2025 22:32:32 +0000
+链接: https://chinadigitaltimes.net/chinese/723972.html
+
+标题: 正面连接｜当洪康熙和红楼梦进入悼明宇宙
+时间: Sat, 27 Dec 2025 22:26:07 +0000
+链接: https://chinadigitaltimes.net/chinese/723969.html
+
+标题: 旧闻评论｜南博调查组的艰巨任务｜舆论手札
+时间: Sat, 27 Dec 2025 22:13:16 +0000
+链接: https://chinadigitaltimes.net/chinese/723967.html
+
+标题: 梁溪客｜人们为何不买教育部《通知》的账
+时间: Sat, 27 Dec 2025 21:30:27 +0000
+链接: https://chinadigitaltimes.net/chinese/723960.html
+
+来源: 端傳媒 Initium Media
+链接: https://theinitium.com/zh-hans/rss/
+--------------------
+标题: 缅甸“大选”：一场军政府设计的选举秀，为何导致反对派分裂？
+时间: Sun, 28 Dec 2025 01:30:39 GMT
+链接: https://theinitium.com/20251228-international-myanmar-fake-election-zh-hans/
+
+标题: 《幸福之路》：韩裔导演讲述的华裔纽约外卖员
+时间: Sat, 27 Dec 2025 23:00:19 GMT
+链接: https://theinitium.com/20251228-culture-lucky-lu-lloyd-lee-choi-zh-hans/
+
+标题: 中国工人能向 DeepSeek 寻求维权建议吗？一场与外国 AI 模型的比较实验
+时间: Fri, 26 Dec 2025 23:00:58 GMT
+链接: https://theinitium.com/20251227-the-techsmith-deepseek-talks-about-labor-rights-zh-hans/
+
+标题: 在香港的角落，摇摆舞让他们做回自己｜端闻 Podcast
+时间: Fri, 26 Dec 2025 12:30:39 GMT
+链接: https://theinitium.com/20251226-initium-audio-hongkong-swing-dance-zh-hans/
+
+标题: 悲剧后的反应：台湾、澳洲、英国
+时间: Fri, 26 Dec 2025 09:24:28 GMT
+链接: https://theinitium.com/20251226-weekly-zh-hans/
+
+标题: 针对女性的暴力与恐怖主义齐平：英国工党政府推全面防治政策｜Whatsnew
+时间: Fri, 26 Dec 2025 07:15:10 GMT
+链接: https://theinitium.com/20251226-whatsnew-uk-end-violence-against-women-policy-zh-hans/
+
+标题: 必需工作，必需坚强——宏福苑大火后，外佣们带伤的日常
+时间: Thu, 25 Dec 2025 23:00:24 GMT
+链接: https://theinitium.com/20251226-hongkong-taipo-fire-domestic-helpers-zh-hans/
+
+标题: 中山诚品的烟硝夜：身在一场无差别攻击中
+时间: Wed, 24 Dec 2025 23:00:19 GMT
+链接: https://theinitium.com/20251225-taiwan-taipei-random-attack-witnesses-zh-hans/
+
+标题: 悉尼邦迪恐袭：从紧急游行法改革到情报机构问责，巴以冲突再引发澳洲社会分歧｜Whatsnew
+时间: Wed, 24 Dec 2025 22:58:25 GMT
+链接: https://theinitium.com/20251225-whatsnew-sydney-bondi-attack-nsw-law-reform-zh-hans/
+
+标题: 当 AI 算法成为色情守门人，女性身体如何成为禁忌？｜端闻 Podcast
+时间: Wed, 24 Dec 2025 12:30:31 GMT
+链接: https://theinitium.com/20251224-initium-audio-international-the-algorithm-knows-it-when-it-sees-it-zh-hans/
+
+标题: 北市随机袭击事件后：恐慌与悼念中的台湾｜Whatsnew
+时间: Wed, 24 Dec 2025 10:38:40 GMT
+链接: https://theinitium.com/20251224-whatsnew-taiwan-indiscriminate-killing-zh-hans/
+
+标题: 叙利亚新政一年后：监狱与酷刑重启、族群冲突蠢动｜Whatsnew
+时间: Wed, 24 Dec 2025 02:10:52 GMT
+链接: https://theinitium.com/20251224-whatsnew-syria-assad-prison-reopen-zh-hans/
+
+标题: 在不能出柜的地方，她们创造了一个“泰百宇宙”
+时间: Tue, 23 Dec 2025 23:00:11 GMT
+链接: https://theinitium.com/20251224-mainland-story-of-thai-girls-love-dramas-fans-zh-hans/
+
+标题: 从欧洲到台海，特朗普的国安报告书说了甚么？
+时间: Mon, 22 Dec 2025 23:00:04 GMT
+链接: https://theinitium.com/20251223-international-trump-national-security-strategy-zh-hans/
+
+标题: “台湾有事”论后中日冲突难降温：中国的反制措施有效吗？中日民间如何看？
+时间: Mon, 22 Dec 2025 22:59:44 GMT
+链接: https://theinitium.com/20251223-mainland-public-discourse-on-takaichi-sanae-taiwan-contingency-remarks-zh-hans/
+
+来源: 少数派
+链接: https://sspai.com/feed
+--------------------
+标题: AI 饭局装腔指南：3 分钟速成行业大佬
+时间: Sat, 27 Dec 2025 14:47:51 +0800
+链接: https://sspai.com/post/104832
+
+标题: 本周看什么 | 最近值得一看的 11 部作品
+时间: Fri, 26 Dec 2025 17:57:06 +0800
+链接: https://sspai.com/post/104915
+
+标题: 即将告别 2025 年，这些「数字」值得被你留下
+时间: Fri, 26 Dec 2025 15:40:19 +0800
+链接: https://sspai.com/post/104890
+
+标题: 佳明、Wahoo 还是 Hammerhead？高端码表最强对比评测
+时间: Fri, 26 Dec 2025 11:25:42 +0800
+链接: https://sspai.com/post/104737
+
+标题: 派早报：小米发布多款新品，微软宣布 BitLocker 将支持硬件加速等
+时间: Fri, 26 Dec 2025 08:54:25 +0800
+链接: https://sspai.com/post/104901
+
+标题: 新玩意 231｜少数派的编辑们最近买了啥？
+时间: Thu, 25 Dec 2025 17:00:00 +0800
+链接: https://sspai.com/post/104895
+
+标题: 关于微塑料，一些你可能想了解的事
+时间: Thu, 25 Dec 2025 15:41:21 +0800
+链接: https://sspai.com/prime/story/microplastics-facts-protections
+
+标题: 这么近那么美，周末到河北：看燕赵大地，逛正定古城
+时间: Thu, 25 Dec 2025 15:00:00 +0800
+链接: https://sspai.com/post/104734
+
+标题: 从 Retina 经典到 M 芯未来：十年、三代变革，我的 MacBook 进化论
+时间: Thu, 25 Dec 2025 10:31:57 +0800
+链接: https://sspai.com/post/104723
+
+标题: 派早报：微信公众号上线「付费加热」功能等
+时间: Thu, 25 Dec 2025 08:22:16 +0800
+链接: https://sspai.com/post/104885
+
