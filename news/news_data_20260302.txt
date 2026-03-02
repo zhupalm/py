@@ -1,0 +1,141 @@
+=== 新闻抓取报告 ===
+抓取时间: 2026-03-02 02:05:38
+==============================
+
+来源: 中国数字时代
+链接: https://chinadigitaltimes.net/chinese/feed
+--------------------
+标题: 每日一语 2026.2.28
+时间: Sun, 01 Mar 2026 04:00:47 +0000
+链接: https://chinadigitaltimes.net/chinese/725536.html
+
+标题: 千翻儿｜第七届“记者的家”新闻奖获奖名单：真实推动社会进步
+时间: Sun, 01 Mar 2026 03:00:43 +0000
+链接: https://chinadigitaltimes.net/chinese/725534.html
+
+标题: 【网络民议】小帕写的什么呀，让我看看。哦，原来只是真相。
+时间: Sun, 01 Mar 2026 00:00:27 +0000
+链接: https://chinadigitaltimes.net/chinese/725526.html
+
+标题: 建设性意见｜老朋友伊朗，快要退出群聊了
+时间: Sat, 28 Feb 2026 22:13:25 +0000
+链接: https://chinadigitaltimes.net/chinese/725524.html
+
+标题: 【敏感词库】蒙语课改、刘美贤「六四二代」夺金、春晚批评遭封杀（2026.2）
+时间: Sat, 28 Feb 2026 20:13:32 +0000
+链接: https://chinadigitaltimes.net/chinese/725505.html
+
+标题: 李卧须｜人非你撞，为何要扶？彭宇扶不扶案20周年
+时间: Sat, 28 Feb 2026 18:24:21 +0000
+链接: https://chinadigitaltimes.net/chinese/725518.html
+
+标题: 连木理｜名校文科生，“困在”偏远地区当公务员
+时间: Sat, 28 Feb 2026 16:45:29 +0000
+链接: https://chinadigitaltimes.net/chinese/725516.html
+
+来源: 端傳媒 Initium Media
+链接: https://theinitium.com/zh-hans/rss/
+--------------------
+标题: 吃牛肉﹑啖牛油﹑饮牛奶：美国新版饮食指南，为何是一份“真美国人”政治宣言？
+时间: Sun, 01 Mar 2026 23:00:07 GMT
+链接: https://theinitium.com/202602302-international-politics-of-new-dietary-guidelines-zh-hans/
+
+标题: 导读中东战火：2026美以伊开战，与危脆生命的代价
+时间: Sun, 01 Mar 2026 22:59:51 GMT
+链接: https://theinitium.com/20260302-editor-letter-for-iran-zh-hans/
+
+标题: “二二八事件”79年后，台湾因争议电影掀起“历史补课潮”｜Whatsnew
+时间: Sun, 01 Mar 2026 12:41:42 GMT
+链接: https://theinitium.com/20260301-whatsnew-taiwan-228-anniversary-history-lesson-wave-zh-hans/
+
+标题: 美以空袭下，伊朗最高领袖哈梅内伊丧生：两极民意与政权下一步｜Whatsnew
+时间: Sun, 01 Mar 2026 07:20:42 GMT
+链接: https://theinitium.com/20260301-whatnew-iran-supreme-leader-khamenei-death-zh-hans/
+
+标题: 四问美国、以色列空袭伊朗：特朗普究竟想达成什么？
+时间: Sun, 01 Mar 2026 05:36:11 GMT
+链接: https://theinitium.com/20260301-international-what-trump-wants-from-iran-strike-explainer-zh-hans/
+
+标题: 从状态美学到伦理叙事，当我在浪漫关系中杀死暧昧
+时间: Sat, 28 Feb 2026 23:00:34 GMT
+链接: https://theinitium.com/20260301-column-bye-situationship-zh-hans/
+
+标题: 以色列攻击伊朗：美国加入行动，特朗普吁伊朗人民夺回命运｜Whatsnew
+时间: Sat, 28 Feb 2026 09:13:10 GMT
+链接: https://theinitium.com/20260228-whatsnew-israel-attack-iran-with-us-help-zh-hans/
+
+标题: 从墓碑看见“家”：加拿大华人，与那些葬在异乡的故事
+时间: Fri, 27 Feb 2026 23:00:37 GMT
+链接: https://theinitium.com/20260228-finding-a-worthy-grave-dying-in-canada-zh-hans/
+
+标题: 香港毒狗案：高密度社会里的“仇狗”文化｜端闻 Podcast
+时间: Fri, 27 Feb 2026 14:41:32 GMT
+链接: https://theinitium.com/20260227-initium-audio-hongkong-dog-poisoning-unsloved-zh-hans/
+
+标题: 俄乌战争四周年，美伊谈判持续
+时间: Fri, 27 Feb 2026 09:05:35 GMT
+链接: https://theinitium.com/20260227-weekly-zh-hans/
+
+标题: 危殆的山，离散的人：藤枝的布农族人为何回不了家？
+时间: Thu, 26 Feb 2026 23:00:51 GMT
+链接: https://theinitium.com/20260227-taiwan-history-of-bunun-people-in-husida-zh-hans/
+
+标题: 巴拿马接管长和港口经营权，中港批破坏国际贸易运作｜Whatsnew
+时间: Thu, 26 Feb 2026 06:40:12 GMT
+链接: https://theinitium.com/20260226-whatsnew-panama-canal-ports-us-china-zh-hans/
+
+标题: 竞争、合谋与对抗：中国怎样扼住全球稀土产业链命脉？
+时间: Wed, 25 Feb 2026 23:00:00 GMT
+链接: https://theinitium.com/20260227-explainer-china-international-rare-earth-industry-zh-hans/
+
+标题: 俄乌战争四周年：消耗战下的生活，战争如何重塑乌克兰与俄罗斯社会？｜Whatsnew
+时间: Wed, 25 Feb 2026 22:58:53 GMT
+链接: https://theinitium.com/20260226-whatsnew-russia-invasion-ukraine-fourth-years-zh-hans/
+
+标题: 日渐紧缩的中国放映空间，与迁徙到东京的独立放映室｜端闻 Podcast
+时间: Wed, 25 Feb 2026 12:30:10 GMT
+链接: https://theinitium.com/20260225-initium-audio-independent-cinema-space-unicorn-image-in-tokyo-zh-hans/
+
+来源: 少数派
+链接: https://sspai.com/feed
+--------------------
+标题: 派早报：OpenAI 接替 Anthropic 与五角大楼达成合作
+时间: Mon, 02 Mar 2026 07:04:42 +0800
+链接: https://sspai.com/post/106730
+
+标题: 一日一技｜用频谱分析找出「假无损」音乐
+时间: Sun, 01 Mar 2026 15:54:25 +0800
+链接: https://sspai.com/post/106454
+
+标题: 年度征文｜LLM 眼中的好文章：少数派 2025 热门内容解码
+时间: Sat, 28 Feb 2026 13:47:35 +0800
+链接: https://sspai.com/post/106469
+
+标题: 本周看什么 | 最近值得一看的 10 部作品
+时间: Fri, 27 Feb 2026 17:40:29 +0800
+链接: https://sspai.com/post/106661
+
+标题: Vibe Coding 实战复盘：手搓飞天小女警「卡点跑酷」
+时间: Fri, 27 Feb 2026 15:02:45 +0800
+链接: https://sspai.com/post/106050
+
+标题: 当恐惧有了两种模样：《生化危机 9：安魂曲》评测
+时间: Fri, 27 Feb 2026 14:35:19 +0800
+链接: https://sspai.com/post/106645
+
+标题: 截稿顺延｜将设计装进耳朵：少数派×飞傲联名 CD 机盖板设计大赛
+时间: Fri, 27 Feb 2026 10:03:57 +0800
+链接: https://sspai.com/post/105630
+
+标题: 派早报：Apple 确认将于三月发布多款新品等
+时间: Fri, 27 Feb 2026 08:38:40 +0800
+链接: https://sspai.com/post/106637
+
+标题: 具透 Plus：Obsidian 有了命令行界面，Android 17 Beta 真的在「战未来」了
+时间: Thu, 26 Feb 2026 18:11:29 +0800
+链接: https://sspai.com/prime/story/inside-release-notes-260226
+
+标题: REDMI Buds 8 Pro 降噪真无线耳机体验 - TDS REVIEW
+时间: Thu, 26 Feb 2026 17:30:00 +0800
+链接: https://sspai.com/post/106521
+
