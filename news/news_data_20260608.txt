@@ -1,0 +1,112 @@
+=== 新闻抓取报告 ===
+抓取时间: 2026-06-08 03:59:06
+==============================
+
+Source 1: 抓取失败或无内容 (https://chinadigitaltimes.net/chinese/feed)
+
+来源: 端傳媒 Initium Media
+链接: https://theinitium.com/zh-hans/rss/
+--------------------
+标题: “普京，帮帮我们”：重重外包的“大国企工程”，一场奇特的讨薪
+时间: Sun, 07 Jun 2026 23:00:32 GMT
+链接: https://theinitium.com/20260608-international-chinese-workers-in-wartime-russia-zh-hans/
+
+标题: 特朗普重新瞄准古巴，美国能复制“委内瑞拉模式”变天吗？
+时间: Sun, 07 Jun 2026 22:59:00 GMT
+链接: https://theinitium.com/20260608-international-will-cuba-repeat-venezuela-zh-hans/
+
+标题: 总编周记：我们的AI时代
+时间: Sun, 07 Jun 2026 22:58:00 GMT
+链接: https://theinitium.com/20260608-notes-from-eic-our-ai-era-zh-hans/
+
+标题: 多年以后，香港会缺今年份的自酿梅酒？
+时间: Sat, 06 Jun 2026 23:00:49 GMT
+链接: https://theinitium.com/20260607-agri-food-plum-zh-hans/
+
+标题: 六四悼念现场，每年的“找不同”
+时间: Sat, 06 Jun 2026 22:59:24 GMT
+链接: https://theinitium.com/20260607-photo-hongkong-64-37-zh-hans/
+
+标题: 拾论：“一个母亲要在高脚棚屋的栏杆后面望多久，才能把自己的注视渗进这片土地，渗进时间本身？”
+时间: Sat, 06 Jun 2026 22:58:55 GMT
+链接: https://theinitium.com/20260605-decalogues-words-as-anchors-zh-hans/
+
+标题: 走进 COMPUTE：个人 AI Agent 的黎明
+时间: Fri, 05 Jun 2026 22:59:25 GMT
+链接: https://theinitium.com/20260606-nvidia-spark-personal-ai-agent-dawn-zh-hans/
+
+标题: 纪录片《寻找我的日本接生婆》：穿越生死线，历史产生新的回响
+时间: Fri, 05 Jun 2026 16:07:45 GMT
+链接: https://theinitium.com/20260606-international-documentary-in-search-of-my-japanese-midwife-zh-hans/
+
+标题: 这一周，不漏读：三十七年后，烛光以外的世界
+时间: Fri, 05 Jun 2026 10:20:18 GMT
+链接: https://theinitium.com/20260605-weekly-zh-hans/
+
+标题: 以漫画为伊朗作证：《我在伊朗长大》作者玛嘉‧莎塔碧56岁逝世｜Whatsnew
+时间: Fri, 05 Jun 2026 09:40:30 GMT
+链接: https://theinitium.com/20260605-whatnew-persepolis-author-marjane-satrapi-dies-zh-hans/
+
+标题: 南韩执政党在地方首长选举大胜，但未拿下首尔市长关键位置｜Whatsnew
+时间: Fri, 05 Jun 2026 06:00:44 GMT
+链接: https://theinitium.com/20260605-whatsnew-south-korea-local-election-ruling-party-losing-seoul-zh-hans/
+
+标题: Make some noise: 澳门小童车祸引爆的集体情绪，献花中的无声抗议
+时间: Thu, 04 Jun 2026 23:00:26 GMT
+链接: https://theinitium.com/20260605-opinion-macao-collective-emotion-zh-hans/
+
+标题: “Tax the Rich！”人们为何不再相信有钱人“把饼做大”了？
+时间: Thu, 04 Jun 2026 22:59:42 GMT
+链接: https://theinitium.com/20260605-international-dawun-why-tax-the-rich-zh-hans/
+
+标题: HAPPY一起端 — 第一摊
+时间: Thu, 04 Jun 2026 22:57:42 GMT
+链接: https://theinitium.com/20260605-membership-event-siu-ming-zh-hans/
+
+标题: 六四37周年：维园七年无烛光，市民园内散步致哀，行为艺术悼念被阻｜Whatsnew
+时间: Thu, 04 Jun 2026 15:33:22 GMT
+链接: https://theinitium.com/20260604-whatsnew-hongkong-june4th-37-zh-hans/
+
+来源: 少数派
+链接: https://sspai.com/feed
+--------------------
+标题: 大语言模型正在变成大编程模型
+时间: Mon, 08 Jun 2026 10:45:45 +0800
+链接: https://sspai.com/post/110746
+
+标题: 派早报：乘用车越造越重，12 年增重近 400 公斤
+时间: Mon, 08 Jun 2026 06:52:23 +0800
+链接: https://sspai.com/post/110847
+
+标题: 接住来自空间站的信号：如何用手台接收 SSTV？
+时间: Sun, 07 Jun 2026 16:34:12 +0800
+链接: https://sspai.com/post/110108
+
+标题: 2026 Apple 设计奖正式揭晓，细数 12 款 App 的特别之处
+时间: Sat, 06 Jun 2026 10:20:44 +0800
+链接: https://sspai.com/post/110763
+
+标题: 本周看什么 | 最近值得一看的 8 部作品
+时间: Fri, 05 Jun 2026 18:19:28 +0800
+链接: https://sspai.com/post/110786
+
+标题: macOS 存储管理漫谈：去重是节约空间的最好方法
+时间: Fri, 05 Jun 2026 18:00:12 +0800
+链接: https://sspai.com/prime/story/macos-storage-management-deduplication
+
+标题: 31 位普通人，给一只背包开出了成绩单
+时间: Fri, 05 Jun 2026 16:55:39 +0800
+链接: https://sspai.com/post/110666
+
+标题: 再谈响度战争：为什么你看的视频越来越「吵」了？
+时间: Fri, 05 Jun 2026 15:21:14 +0800
+链接: https://sspai.com/post/109483
+
+标题: WWDC26 开幕在即，今年有哪些看点值得关注？
+时间: Fri, 05 Jun 2026 11:45:01 +0800
+链接: https://sspai.com/post/110669
+
+标题: 派早报：Google 相关资讯三则、华为发布智慧屏 S7 X Pro等
+时间: Fri, 05 Jun 2026 08:52:50 +0800
+链接: https://sspai.com/post/110754
+
