@@ -1,0 +1,112 @@
+=== 新闻抓取报告 ===
+抓取时间: 2026-06-09 03:29:01
+==============================
+
+Source 1: 抓取失败或无内容 (https://chinadigitaltimes.net/chinese/feed)
+
+来源: 端傳媒 Initium Media
+链接: https://theinitium.com/zh-hans/rss/
+--------------------
+标题: 拉美男孩暴富梦：五点起床健身，能买兰博基尼？
+时间: Mon, 08 Jun 2026 23:00:08 GMT
+链接: https://theinitium.com/20260609-international-latin-american-boys-get-rich-dream-zh-hans/
+
+标题: 漫评｜“以灾乱港”下的责任逻辑
+时间: Mon, 08 Jun 2026 22:59:43 GMT
+链接: https://theinitium.com/20260609-opinion-cartoon-graphics-hk-fire-zh-hans/
+
+标题: 【华尔街日报】制裁阴影下，朝鲜呈现出全球最令人意外的经济繁荣
+时间: Mon, 08 Jun 2026 22:58:48 GMT
+链接: https://theinitium.com/20260609-wsj-north-korea-growth-story-zh-hans/
+
+标题: 补看周末：习近平抵平壤；南韩选后信任危机
+时间: Mon, 08 Jun 2026 11:40:04 GMT
+链接: https://theinitium.com/20260608-weekly-zh-hans/
+
+标题: 快读南韩地方选举余波：一场缺票危机如何撼动选举公信力？｜Whatsnew
+时间: Mon, 08 Jun 2026 07:15:56 GMT
+链接: https://theinitium.com/20260608-south-korea-local-election-dispute-zh-hans/
+
+标题: “普京，帮帮我们”：重重外包的“大国企工程”，一场奇特的讨薪
+时间: Sun, 07 Jun 2026 23:00:32 GMT
+链接: https://theinitium.com/20260608-international-chinese-workers-in-wartime-russia-zh-hans/
+
+标题: 特朗普重新瞄准古巴，美国能复制“委内瑞拉模式”变天吗？
+时间: Sun, 07 Jun 2026 22:59:00 GMT
+链接: https://theinitium.com/20260608-international-will-cuba-repeat-venezuela-zh-hans/
+
+标题: 总编周记：我们的AI时代
+时间: Sun, 07 Jun 2026 22:58:00 GMT
+链接: https://theinitium.com/20260608-notes-from-eic-our-ai-era-zh-hans/
+
+标题: 人之所以为人：感官是入口，感受是目的地
+时间: Sun, 07 Jun 2026 22:57:00 GMT
+链接: https://theinitium.com/20260608-the-five-senses-zh-hans/
+
+标题: 多年以后，香港会缺今年份的自酿梅酒？
+时间: Sat, 06 Jun 2026 23:00:49 GMT
+链接: https://theinitium.com/20260607-agri-food-plum-zh-hans/
+
+标题: 六四悼念现场，每年的“找不同”
+时间: Sat, 06 Jun 2026 22:59:24 GMT
+链接: https://theinitium.com/20260607-photo-hongkong-64-37-zh-hans/
+
+标题: 拾论：“一个母亲要在高脚棚屋的栏杆后面望多久，才能把自己的注视渗进这片土地，渗进时间本身？”
+时间: Sat, 06 Jun 2026 22:58:55 GMT
+链接: https://theinitium.com/20260605-decalogues-words-as-anchors-zh-hans/
+
+标题: 走进 COMPUTE：个人 AI Agent 的黎明
+时间: Fri, 05 Jun 2026 22:59:25 GMT
+链接: https://theinitium.com/20260606-nvidia-spark-personal-ai-agent-dawn-zh-hans/
+
+标题: 纪录片《寻找我的日本接生婆》：穿越生死线，历史产生新的回响
+时间: Fri, 05 Jun 2026 16:07:45 GMT
+链接: https://theinitium.com/20260606-international-documentary-in-search-of-my-japanese-midwife-zh-hans/
+
+标题: 这一周，不漏读：三十七年后，烛光以外的世界
+时间: Fri, 05 Jun 2026 10:20:18 GMT
+链接: https://theinitium.com/20260605-weekly-zh-hans/
+
+来源: 少数派
+链接: https://sspai.com/feed
+--------------------
+标题: 派早报：WWDC26 全球开发者大会开幕等
+时间: Tue, 09 Jun 2026 06:16:44 +0800
+链接: https://sspai.com/post/110889
+
+标题: 一图流 | Apple WWDC26 开幕式回顾
+时间: Tue, 09 Jun 2026 04:56:14 +0800
+链接: https://sspai.com/post/110887
+
+标题: Liquid Glass 精调、Apple 智能大升级：WWDC26 发布会回顾
+时间: Tue, 09 Jun 2026 04:47:52 +0800
+链接: https://sspai.com/post/110888
+
+标题: 派评｜近期值得关注的 App
+时间: Mon, 08 Jun 2026 18:16:23 +0800
+链接: https://sspai.com/post/110874
+
+标题: 少数派正版软件 + 付费教程 618 促销活动限时开启
+时间: Mon, 08 Jun 2026 16:11:23 +0800
+链接: https://sspai.com/post/110853
+
+标题: 2026 美加墨世界杯观赛指南
+时间: Mon, 08 Jun 2026 15:00:00 +0800
+链接: https://sspai.com/post/110681
+
+标题: 大语言模型正在变成大编程模型
+时间: Mon, 08 Jun 2026 10:45:45 +0800
+链接: https://sspai.com/post/110746
+
+标题: 派早报：乘用车越造越重，12 年增重近 400 公斤
+时间: Mon, 08 Jun 2026 06:52:23 +0800
+链接: https://sspai.com/post/110847
+
+标题: 接住来自空间站的信号：如何用手台接收 SSTV？
+时间: Sun, 07 Jun 2026 16:34:12 +0800
+链接: https://sspai.com/post/110108
+
+标题: 2026 Apple 设计奖正式揭晓，细数 12 款 App 的特别之处
+时间: Sat, 06 Jun 2026 10:20:44 +0800
+链接: https://sspai.com/post/110763
+
