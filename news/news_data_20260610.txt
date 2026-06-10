@@ -1,0 +1,112 @@
+=== 新闻抓取报告 ===
+抓取时间: 2026-06-10 03:40:20
+==============================
+
+Source 1: 抓取失败或无内容 (https://chinadigitaltimes.net/chinese/feed)
+
+来源: 端傳媒 Initium Media
+链接: https://theinitium.com/zh-hans/rss/
+--------------------
+标题: 香港国安附例生效：特首证明书可定性案件涉国安，新例有什么重点？｜Whatsnew
+时间: Tue, 09 Jun 2026 23:00:38 GMT
+链接: https://theinitium.com/20260610-whatsnew-hongkong-nsl-subsidiary-legislation-zh-hans/
+
+标题: 不怕被AI取代的短剧编剧：“搅浑这个行业的是谁，大家都有数”
+时间: Tue, 09 Jun 2026 23:00:36 GMT
+链接: https://theinitium.com/20260910-mainland-ai-and-short-videos-zh-hans/
+
+标题: 数说科技：全球第一个脑机接口医疗器械在中国上市并进入医保
+时间: Tue, 09 Jun 2026 22:59:38 GMT
+链接: https://theinitium.com/20260610-tech-in-numbers-china-brain-computer-interface-zh-hans/
+
+标题: 日菲海域划界涉台权益，中国则回应在台东部海域「执法」反制｜Whatsnew
+时间: Tue, 09 Jun 2026 08:40:59 GMT
+链接: https://theinitium.com/20260609-whatsnew-china-operation-near-taiwan-after-japan-philippines-sea-talks-zh-hans/
+
+标题: 拉美男孩暴富梦：五点起床健身，能买兰博基尼？
+时间: Mon, 08 Jun 2026 23:00:08 GMT
+链接: https://theinitium.com/20260609-international-latin-american-boys-get-rich-dream-zh-hans/
+
+标题: 漫评｜“以灾乱港”下的责任逻辑
+时间: Mon, 08 Jun 2026 22:59:43 GMT
+链接: https://theinitium.com/20260609-opinion-cartoon-graphics-hk-fire-zh-hans/
+
+标题: 【华尔街日报】制裁阴影下，朝鲜呈现出全球最令人意外的经济繁荣
+时间: Mon, 08 Jun 2026 22:58:48 GMT
+链接: https://theinitium.com/20260609-wsj-north-korea-growth-story-zh-hans/
+
+标题: 【线上端小聚｜会员特别场】德国华人跨国迷奸案：报导幕后与法庭现场，记者看见了什么？
+时间: Mon, 08 Jun 2026 22:56:00 GMT
+链接: https://theinitium.com/20260609-membership-event-international-chinese-drug-rape-germany-zh-hans/
+
+标题: 补看周末：习近平抵平壤；南韩选后信任危机
+时间: Mon, 08 Jun 2026 11:40:04 GMT
+链接: https://theinitium.com/20260608-weekly-zh-hans/
+
+标题: 快读南韩地方选举余波：一场缺票危机如何撼动选举公信力？｜Whatsnew
+时间: Mon, 08 Jun 2026 07:15:56 GMT
+链接: https://theinitium.com/20260608-south-korea-local-election-dispute-zh-hans/
+
+标题: “普京，帮帮我们”：重重外包的“大国企工程”，一场奇特的讨薪
+时间: Sun, 07 Jun 2026 23:00:32 GMT
+链接: https://theinitium.com/20260608-international-chinese-workers-in-wartime-russia-zh-hans/
+
+标题: 特朗普重新瞄准古巴，美国能复制“委内瑞拉模式”变天吗？
+时间: Sun, 07 Jun 2026 22:59:00 GMT
+链接: https://theinitium.com/20260608-international-will-cuba-repeat-venezuela-zh-hans/
+
+标题: 总编周记：我们的AI时代
+时间: Sun, 07 Jun 2026 22:58:00 GMT
+链接: https://theinitium.com/20260608-notes-from-eic-our-ai-era-zh-hans/
+
+标题: 人之所以为人：感官是入口，感受是目的地
+时间: Sun, 07 Jun 2026 22:57:00 GMT
+链接: https://theinitium.com/20260608-the-five-senses-zh-hans/
+
+标题: 多年以后，香港会缺今年份的自酿梅酒？
+时间: Sat, 06 Jun 2026 23:00:49 GMT
+链接: https://theinitium.com/20260607-agri-food-plum-zh-hans/
+
+来源: 少数派
+链接: https://sspai.com/feed
+--------------------
+标题: 派早报：Apple 更新 App Store 审核与订阅规则、Anthropic 发布 Claude Fable 5 等
+时间: Wed, 10 Jun 2026 08:14:32 +0800
+链接: https://sspai.com/post/110925
+
+标题: 社区速递 144 | 听 AI 开「营养处方」、无感耳夹耳机与磁吸支架
+时间: Tue, 09 Jun 2026 17:06:41 +0800
+链接: https://sspai.com/post/110907
+
+标题: 众测招募｜灵犀 Linx 键盘功能共创计划开启
+时间: Tue, 09 Jun 2026 12:00:00 +0800
+链接: https://sspai.com/post/110863
+
+标题: 派早报：WWDC26 全球开发者大会开幕等
+时间: Tue, 09 Jun 2026 06:16:44 +0800
+链接: https://sspai.com/post/110889
+
+标题: 一图流 | Apple WWDC26 开幕式回顾
+时间: Tue, 09 Jun 2026 04:56:14 +0800
+链接: https://sspai.com/post/110887
+
+标题: Liquid Glass 精调、Apple 智能大升级：WWDC26 发布会回顾
+时间: Tue, 09 Jun 2026 04:47:52 +0800
+链接: https://sspai.com/post/110888
+
+标题: 派评｜近期值得关注的 App
+时间: Mon, 08 Jun 2026 18:16:23 +0800
+链接: https://sspai.com/post/110874
+
+标题: 少数派正版软件 + 付费教程 618 促销活动限时开启
+时间: Mon, 08 Jun 2026 16:11:23 +0800
+链接: https://sspai.com/post/110853
+
+标题: 2026 美加墨世界杯观赛指南
+时间: Mon, 08 Jun 2026 15:00:00 +0800
+链接: https://sspai.com/post/110681
+
+标题: 大语言模型正在变成大编程模型
+时间: Mon, 08 Jun 2026 10:45:45 +0800
+链接: https://sspai.com/post/110746
+
