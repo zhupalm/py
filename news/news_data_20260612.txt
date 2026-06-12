@@ -1,0 +1,112 @@
+=== 新闻抓取报告 ===
+抓取时间: 2026-06-12 03:56:01
+==============================
+
+Source 1: 抓取失败或无内容 (https://chinadigitaltimes.net/chinese/feed)
+
+来源: 端傳媒 Initium Media
+链接: https://theinitium.com/zh-hans/rss/
+--------------------
+标题: “她们与我有关”：德国华人跨国迷奸案延烧，一群陌生人踏前一步
+时间: Thu, 11 Jun 2026 23:00:14 GMT
+链接: https://theinitium.com/20260612-international-why-they-particitating-in-chinese-drug-facilitated-rape-case-in-germany-zh-hans/
+
+标题: 关于台湾军备采购，“疑美论”真有那么重要？
+时间: Thu, 11 Jun 2026 22:59:36 GMT
+链接: https://theinitium.com/20260612-opinion-taiwan-america-skeptics-zh-hans/
+
+标题: 出狱不等于自由：八旗总编富察获释仍有「附加刑」，返台前景未明｜Whatsnew
+时间: Thu, 11 Jun 2026 07:30:15 GMT
+链接: https://theinitium.com/20260611-whatsnew-li-yanhe-fucha-released-barred-leave-china-zh-hans/
+
+标题: 泰北僧侣带队「法行」徒步55公里，抗议缅甸上游矿业污染跨境河流｜Whatsnew
+时间: Thu, 11 Jun 2026 05:55:01 GMT
+链接: https://theinitium.com/20260611-whatsnew-north-thailand-protest-rare-earth-mine-pollution-zh-hans/
+
+标题: 韩国选举舞弊论：繁中右翼的联合，与作为境外势力的中国
+时间: Wed, 10 Jun 2026 23:00:07 GMT
+链接: https://theinitium.com/20260611-opinion-right-wing-on-korea-election-zh-hans/
+
+标题: 【华尔街日报】SpaceX IPO 文件揭示的七大秘密
+时间: Wed, 10 Jun 2026 22:59:27 GMT
+链接: https://theinitium.com/20260611-wsj-spacex-ipo-prospectus-zh-hans/
+
+标题: 高温炙烤的世界杯：商业利益与球员安全，足球该如何取舍？｜Whatsnew
+时间: Wed, 10 Jun 2026 10:20:46 GMT
+链接: https://theinitium.com/20260610-whatsnew-world-cup-climate-change-heat-acclimitization-zh-hans/
+
+标题: 荷兰迷奸案：警方查八名男子，涉下药性侵和传播性影像｜Whatsnew
+时间: Wed, 10 Jun 2026 04:00:35 GMT
+链接: https://theinitium.com/20260610-whatsnew-drug-facilitated-sexual-assault-in-netherlands-zh-hans/
+
+标题: 香港国安附例生效：特首证明书可定性案件涉国安，新例有什么重点？｜Whatsnew
+时间: Tue, 09 Jun 2026 23:00:38 GMT
+链接: https://theinitium.com/20260610-whatsnew-hongkong-nsl-subsidiary-legislation-zh-hans/
+
+标题: 不怕被AI取代的短剧编剧：“搅浑这个行业的是谁，大家都有数”
+时间: Tue, 09 Jun 2026 23:00:36 GMT
+链接: https://theinitium.com/20260910-mainland-ai-and-short-videos-zh-hans/
+
+标题: 数说科技：全球第一个脑机接口医疗器械在中国上市并进入医保
+时间: Tue, 09 Jun 2026 22:59:38 GMT
+链接: https://theinitium.com/20260610-tech-in-numbers-china-brain-computer-interface-zh-hans/
+
+标题: 日菲海域划界涉台权益，中国则回应在台东部海域「执法」反制｜Whatsnew
+时间: Tue, 09 Jun 2026 08:40:59 GMT
+链接: https://theinitium.com/20260609-whatsnew-china-operation-near-taiwan-after-japan-philippines-sea-talks-zh-hans/
+
+标题: 拉美男孩暴富梦：五点起床健身，能买兰博基尼？
+时间: Mon, 08 Jun 2026 23:00:08 GMT
+链接: https://theinitium.com/20260609-international-latin-american-boys-get-rich-dream-zh-hans/
+
+标题: 漫评｜“以灾乱港”下的责任逻辑
+时间: Mon, 08 Jun 2026 22:59:43 GMT
+链接: https://theinitium.com/20260609-opinion-cartoon-graphics-hk-fire-zh-hans/
+
+标题: 【华尔街日报】制裁阴影下，朝鲜呈现出全球最令人意外的经济繁荣
+时间: Mon, 08 Jun 2026 22:58:48 GMT
+链接: https://theinitium.com/20260609-wsj-north-korea-growth-story-zh-hans/
+
+来源: 少数派
+链接: https://sspai.com/feed
+--------------------
+标题: 派早报：五电商平台因「百亿补贴」问题被约谈、Xbox 启动业务重置计划等
+时间: Fri, 12 Jun 2026 08:13:10 +0800
+链接: https://sspai.com/post/110975
+
+标题: 家庭饮品 DIY 指南（一）：工欲善其事，必先利其器
+时间: Thu, 11 Jun 2026 17:31:55 +0800
+链接: https://sspai.com/prime/story/home-made-beverages-1
+
+标题: 618 相机存储卡选购全攻略（2026）
+时间: Thu, 11 Jun 2026 17:30:00 +0800
+链接: https://sspai.com/post/110334
+
+标题: 5月音乐推荐：不可错过的9张惊喜专辑
+时间: Thu, 11 Jun 2026 14:58:32 +0800
+链接: https://sspai.com/post/110670
+
+标题: 苹果新增的「围绝经期」提醒，你该比 watchOS 27 多了解一点
+时间: Thu, 11 Jun 2026 11:41:47 +0800
+链接: https://sspai.com/post/75419
+
+标题: 派早报：Insta360 发布首款手持云台相机 Luna Ultra 等
+时间: Thu, 11 Jun 2026 08:47:19 +0800
+链接: https://sspai.com/post/110951
+
+标题: 线下活动｜周日到广州来，给你一张过去的 CD
+时间: Wed, 10 Jun 2026 17:30:00 +0800
+链接: https://sspai.com/post/110911
+
+标题: 又是一年 618：可以直接抄作业的护肤搭配清单
+时间: Wed, 10 Jun 2026 15:00:00 +0800
+链接: https://sspai.com/post/110614
+
+标题: 告别阅读焦虑：一份硬核科学阅读指南
+时间: Wed, 10 Jun 2026 11:29:04 +0800
+链接: https://sspai.com/post/110557
+
+标题: 这些人用实测，给麦金獭钢化膜交了份真实答卷
+时间: Wed, 10 Jun 2026 11:00:00 +0800
+链接: https://sspai.com/post/110868
+
