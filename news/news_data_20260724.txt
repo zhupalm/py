@@ -1,0 +1,141 @@
+=== 新闻抓取报告 ===
+抓取时间: 2026-07-24 02:36:28
+==============================
+
+来源: 中国数字时代
+链接: https://chinadigitaltimes.net/chinese/feed
+--------------------
+标题: 每日一语 2026.7.22
+时间: Thu, 23 Jul 2026 13:28:46 +0000
+链接: https://chinadigitaltimes.net/chinese/729748.html
+
+标题: 报人刘亚东｜如果孩子可以告发父母，说明社会病得不轻
+时间: Thu, 23 Jul 2026 11:30:25 +0000
+链接: https://chinadigitaltimes.net/chinese/729744.html
+
+标题: Fingding8964｜从孙志刚到旺旺：一次不会发生的立法跃进
+时间: Thu, 23 Jul 2026 09:36:51 +0000
+链接: https://chinadigitaltimes.net/chinese/729745.html
+
+标题: 【404文库】太阳照常升起 ｜ OpenAI对中国开源大模型极度担忧
+时间: Thu, 23 Jul 2026 09:35:19 +0000
+链接: https://chinadigitaltimes.net/chinese/729730.html
+
+标题: 【立此存照】湖南图书馆｜部分读者违规使用馆内公用Wi-Fi翻墙
+时间: Thu, 23 Jul 2026 05:49:52 +0000
+链接: https://chinadigitaltimes.net/chinese/729726.html
+
+标题: 输得慢点就好｜央视别把“舆论监督”当作打人的棒子
+时间: Wed, 22 Jul 2026 12:10:48 +0000
+链接: https://chinadigitaltimes.net/chinese/729721.html
+
+标题: 凤羽财经｜深圳地铁回应了；什么叫安检项目学
+时间: Wed, 22 Jul 2026 11:45:12 +0000
+链接: https://chinadigitaltimes.net/chinese/729717.html
+
+来源: 端傳媒 Initium Media
+链接: https://theinitium.com/zh-hans/rss/
+--------------------
+标题: 台湾中联油品污染事件：48天通报空窗，如何延烧成政治风暴？｜Whatsnew
+时间: Fri, 24 Jul 2026 02:30:22 GMT
+链接: https://theinitium.com/20260724-whatsnew-taiwan-central-union-oil-food-scandal-zh-hans/
+
+标题: 专访科技人文学者路淼：中国手机制造商传音，如何转译成“非洲手机之王”？
+时间: Thu, 23 Jul 2026 23:00:02 GMT
+链接: https://theinitium.com/20260724-china-in-question-interview-with-lumiao-transsion-zh-hans/
+
+标题: “我是书店店员”台港舆论风波：反修例七年后，台湾和香港如何理解彼此？
+时间: Wed, 22 Jul 2026 23:00:34 GMT
+链接: https://theinitium.com/20260723-hongkong-taiwan-stand-with-bookstores-debate-zh-hans/
+
+标题: 【华尔街日报】中国全方位打压台湾，连儿童合唱团和咖啡师都无一幸免
+时间: Wed, 22 Jul 2026 22:59:52 GMT
+链接: https://theinitium.com/20260723-wsj-china-taiwan-pressure-childrens-choir-barista-zh-hans/
+
+标题: 追踪「德国老司机驾校」案，恶意从何而来？｜端闻 Podcast
+时间: Wed, 22 Jul 2026 12:30:12 GMT
+链接: https://theinitium.com/20260722-initium-audio-international-chinese-drug-facilitated-rape-case-in-germany-zh-hans/
+
+标题: 法国「协助死亡」合法化的历史时刻，马克龙最后的政治印记｜Whatsnew
+时间: Wed, 22 Jul 2026 08:30:49 GMT
+链接: https://theinitium.com/20260722-whatsnew-france-passes-assisted-dying-law-zh-hans/
+
+标题: 6月香港法庭： 「香港驻伦敦经贸办案」两被告分别被判囚8年及10年、港府订立国安附属法例，特首可发证明书界定国安案件
+时间: Wed, 22 Jul 2026 05:30:25 GMT
+链接: https://theinitium.com/20260722-whatsnew-may-hong-kong-trial-summary-zh-hans/
+
+标题: 一边是五星红旗，一边是青天白日满地红：泰北孤军后裔的“中国”
+时间: Tue, 21 Jul 2026 23:00:51 GMT
+链接: https://theinitium.com/20260722-international-thai-burmese-lone-army-looking-for-china-zh-hans/
+
+标题: 数说科技：月之暗面最新大模型发布，中美 AI 差距进一步缩小
+时间: Tue, 21 Jul 2026 22:59:04 GMT
+链接: https://theinitium.com/20260722-tech-in-numbers-kimi-k3-narrows-us-china-ai-gap-zh-hans/
+
+标题: 30岁以上美军将全面检测睾固酮浓度：防长赫格塞斯的「重振雄风」计划？｜Whatsnew
+时间: Tue, 21 Jul 2026 09:25:11 GMT
+链接: https://theinitium.com/20260720-whatsnew-us-military-to-test-testosterone-deficiency-zh-hans/
+
+标题: 端传媒获亚洲出版业协会“2026卓越新闻奖”10项大奖
+时间: Tue, 21 Jul 2026 07:15:39 GMT
+链接: https://theinitium.com/20260618-initiumnews-sopa-zh-hans/
+
+标题: 永远的局外人：泰国女性作家威拉蓬，与泰国华人的记忆迷宫
+时间: Mon, 20 Jul 2026 23:00:54 GMT
+链接: https://theinitium.com/20260721-her-country-tai-writer-veeraporn-zh-hans/
+
+标题: 【华尔街日报】一家中国本土公司如何成为存储芯片行业的最大破局者
+时间: Mon, 20 Jul 2026 22:59:03 GMT
+链接: https://theinitium.com/20260721-wsj-how-a-chinese-local-company-became-the-biggest-disruptor-in-the-memory-chip-industry-zh-hans/
+
+标题: 补看周末：西班牙的热火时刻
+时间: Mon, 20 Jul 2026 13:10:34 GMT
+链接: https://theinitium.com/20260720-weekly-zh-hans/
+
+标题: 战争时刻撤换明星国防部长？乌克兰内阁改组引发街头抗争｜Whatsnew
+时间: Mon, 20 Jul 2026 07:03:03 GMT
+链接: https://theinitium.com/20260720-ukraine-cabinet-reshuffle-fedorov-zh-hans/
+
+来源: 少数派
+链接: https://sspai.com/feed
+--------------------
+标题: 派早报：Acrab 发布边缘 AI 芯片 GELIX 1 和个人 AI 系统 Agent Box 等
+时间: Fri, 24 Jul 2026 08:33:05 +0800
+链接: https://sspai.com/post/112677
+
+标题: 新玩意 247｜少数派的编辑们最近买了啥？
+时间: Thu, 23 Jul 2026 17:38:21 +0800
+链接: https://sspai.com/post/112668
+
+标题: 小小云台，稳住「口袋电影机」：DJI Pocket 4P 漫谈
+时间: Thu, 23 Jul 2026 15:00:00 +0800
+链接: https://sspai.com/post/112428
+
+标题: 让 Windows 顺眼又省心：我的新设备配置经验
+时间: Thu, 23 Jul 2026 10:57:30 +0800
+链接: https://sspai.com/post/111300
+
+标题: 派早报：三星发布多款折叠屏新品、索尼发布 FX5 电影摄影机等
+时间: Thu, 23 Jul 2026 08:50:21 +0800
+链接: https://sspai.com/post/112647
+
+标题: Parti：一个零门槛联机游戏平台，凭什么不需要服务器？
+时间: Wed, 22 Jul 2026 17:43:06 +0800
+链接: https://sspai.com/post/112545
+
+标题: 滤镜背后的色彩科学：LUT 是什么？
+时间: Wed, 22 Jul 2026 15:00:00 +0800
+链接: https://sspai.com/post/111550
+
+标题: 角落新声｜我的上帝模式，一名设计师创作环境的演变
+时间: Wed, 22 Jul 2026 10:04:29 +0800
+链接: https://sspai.com/post/112109
+
+标题: 社区速递 150｜派友热议磁吸配件、拯救呼吸通气鼻贴与国产三折叠自行车
+时间: Tue, 21 Jul 2026 17:00:00 +0800
+链接: https://sspai.com/post/112582
+
+标题: 装上 Fedora 的 Surface Pro：一台老设备的新可能
+时间: Tue, 21 Jul 2026 15:00:00 +0800
+链接: https://sspai.com/post/112200
+
