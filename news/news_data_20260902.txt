@@ -1,0 +1,141 @@
+=== 新闻抓取报告 ===
+抓取时间: 2026-09-02 03:04:55
+==============================
+
+来源: 中国数字时代
+链接: https://chinadigitaltimes.net/chinese/feed
+--------------------
+标题: 笛卡尔的沉思｜尼泊尔，这一次真的让人刮目相看
+时间: Tue, 01 Sep 2026 22:18:29 +0000
+链接: https://chinadigitaltimes.net/chinese/731319.html
+
+标题: 【404文库】“人人都知道它致癌，但甲醛白菜就明晃晃地在各省市之间畅通无阻”（外二篇）
+时间: Tue, 01 Sep 2026 21:37:41 +0000
+链接: https://chinadigitaltimes.net/chinese/731329.html
+
+标题: 科技头版｜宇树离职员工：内部只罚不奖，工资偏低
+时间: Tue, 01 Sep 2026 20:58:03 +0000
+链接: https://chinadigitaltimes.net/chinese/731315.html
+
+标题: 【立此存照】中国官媒“救援宣传”：吉隆口岸，“我爱你中国”依然醒目
+时间: Tue, 01 Sep 2026 16:11:27 +0000
+链接: https://chinadigitaltimes.net/chinese/731284.html
+
+标题: 每日一语 2026.9.1
+时间: Tue, 01 Sep 2026 15:35:20 +0000
+链接: https://chinadigitaltimes.net/chinese/731323.html
+
+标题: 【网络民议】《肖申克的救赎》内地院线字幕遭删改
+时间: Tue, 01 Sep 2026 15:19:18 +0000
+链接: https://chinadigitaltimes.net/chinese/731293.html
+
+标题: 【旧文重温】成都理工大学｜2025年西藏吉隆口岸“7.8”冰湖溃决洪水事件简述
+时间: Tue, 01 Sep 2026 10:31:08 +0000
+链接: https://chinadigitaltimes.net/chinese/731262.html
+
+来源: 端傳媒 Initium Media
+链接: https://theinitium.com/zh-hans/rss/
+--------------------
+标题: 数说科技：人们开始把 AI 当理财顾问，得到的建议却男女有别
+时间: Tue, 01 Sep 2026 22:59:10 GMT
+链接: https://theinitium.com/20260902-tech-in-numbers-ai-financial-advice-gender-gap-zh-hans/
+
+标题: 瑞幸咖啡的科技野心：不智能的 AI 排班，决定谁是“多余的人”
+时间: Mon, 31 Aug 2026 23:00:46 GMT
+链接: https://theinitium.com/20260901-mainland-luckin-coffee-ai-transformation-zh-hans/
+
+标题: 房主任的“塌房”，與被隐藏的“户”
+时间: Mon, 31 Aug 2026 22:59:39 GMT
+链接: https://theinitium.com/20260901-mainland-stand-up-comedian-director-fang-gender-politics-household-registration-zh-hans/
+
+标题: 【华尔街日报】一代人来最强厄尔尼诺来袭，全球经济遭遇严重冲击
+时间: Mon, 31 Aug 2026 22:58:31 GMT
+链接: https://theinitium.com/20260901-wsj-the-strongest-el-nino-in-a-generation-is-wreaking-havoc-on-global-economy-zh-hans/
+
+标题: 俄“一带一路”工厂爆炸：惨死的中国工人与普京的小金库 | Whatsnew
+时间: Mon, 31 Aug 2026 22:58:17 GMT
+链接: https://theinitium.com/20260901-russian-bri-plant-explosion-zh-hans/
+
+标题: 补看周末：中国中央军委副主席张又侠遭免职
+时间: Mon, 31 Aug 2026 12:15:39 GMT
+链接: https://theinitium.com/20260831-weekly-zh-hans/
+
+标题: 总统买不成的月饼：一笔预算如何烧成台湾年底的选战议题？｜Whatsnew
+时间: Mon, 31 Aug 2026 03:15:57 GMT
+链接: https://theinitium.com/20260831-whatsnew-taiwan-local-elections-state-affairs-fund-2/
+
+标题: 教会机器认识苹果之后，县城“宝妈”被 AI 抛弃
+时间: Sun, 30 Aug 2026 23:00:56 GMT
+链接: https://theinitium.com/20260831-mainland-mom-dataworker-in-china-zh-hans/
+
+标题: 香港仇狗浪潮：当人狗难以同住一座城市，谁之过？
+时间: Sun, 30 Aug 2026 22:59:07 GMT
+链接: https://theinitium.com/20260831-hongkong-anti-dogs-sentiments-zh-hans/
+
+标题: 【线上端小聚】和端一起做新闻！成长计划旧生围炉
+时间: Sun, 30 Aug 2026 22:58:00 GMT
+链接: https://theinitium.com/20260831-membership-event-5th-mentorship-reunion-zh-hans/
+
+标题: 【会员限定权益】全球独立书店专属优惠
+时间: Sun, 30 Aug 2026 22:57:00 GMT
+链接: https://theinitium.com/membership-worldwide-bookstores-benefits-zh-hans/
+
+标题: 外婆与外孙——我的牛头角故事
+时间: Sat, 29 Aug 2026 23:00:52 GMT
+链接: https://theinitium.com/20260830-finding-a-worthy-grave-ngau-tau-kok-memory-zh-hans/
+
+标题: 当游戏走向全面数字化，我们的记忆与欲望流向何处 ……
+时间: Fri, 28 Aug 2026 23:00:14 GMT
+链接: https://theinitium.com/20260829-game-on-when-games-get-digitalized-zh-hans/
+
+标题: “我是书店店员”，与台港关系的伤痕｜端闻 Podcast
+时间: Fri, 28 Aug 2026 12:30:35 GMT
+链接: https://theinitium.com/20260828-initium-audio-hongkong-taiwan-stand-with-bookstores-debate-zh-hans/
+
+标题: 这一周，不漏读：支联会案求情，邹幸彤拒以犯罪框架陈词
+时间: Fri, 28 Aug 2026 10:40:56 GMT
+链接: https://theinitium.com/20260828-weekly-zh-hans/
+
+来源: 少数派
+链接: https://sspai.com/feed
+--------------------
+标题: 派早报：英伟达正式发布 DLSS 5、戴森发布智能电动牙刷 CameraJet 等
+时间: Wed, 02 Sep 2026 07:58:40 +0800
+链接: https://sspai.com/post/114093
+
+标题: 社区速递 156 | 满血全功能磁吸转换头与手机 AI 通话的真实体验
+时间: Tue, 01 Sep 2026 17:00:00 +0800
+链接: https://sspai.com/post/114078
+
+标题: 线下活动 | 全新 iPhone 发布在即，来与少数派一起看 Apple 发布会
+时间: Tue, 01 Sep 2026 15:18:43 +0800
+链接: https://sspai.com/post/114071
+
+标题: 开学季｜值得关注的官翻渠道汇总（2026）
+时间: Tue, 01 Sep 2026 15:00:00 +0800
+链接: https://sspai.com/post/114062
+
+标题: 线索若隐若现：深入 Tim Cook 和 Nike 的商业连接
+时间: Tue, 01 Sep 2026 11:00:00 +0800
+链接: https://sspai.com/post/111081
+
+标题: 派早报：OpenClaw 推出 2.0 版本更新，网易 CC 直播正式停运等
+时间: Tue, 01 Sep 2026 08:17:20 +0800
+链接: https://sspai.com/post/114055
+
+标题: 本月玩什么｜Big Walk、潜龙谍影 大师合辑 Vol. 2
+时间: Mon, 31 Aug 2026 18:48:43 +0800
+链接: https://sspai.com/post/114043
+
+标题: 派评 | 近期值得关注的 App
+时间: Mon, 31 Aug 2026 18:05:00 +0800
+链接: https://sspai.com/post/114041
+
+标题: 家庭饮品 DIY 指南（四）：奶昔、柠檬和茶系列配方
+时间: Mon, 31 Aug 2026 17:09:27 +0800
+链接: https://sspai.com/prime/story/home-made-beverages-4
+
+标题: 屏幕之外，桌面之上：走过十年，明基探索了一束光的更多可能
+时间: Mon, 31 Aug 2026 14:57:03 +0800
+链接: https://sspai.com/post/114027
+
