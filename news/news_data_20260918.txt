@@ -1,0 +1,141 @@
+=== 新闻抓取报告 ===
+抓取时间: 2026-09-18 03:23:04
+==============================
+
+来源: 中国数字时代
+链接: https://chinadigitaltimes.net/chinese/feed
+--------------------
+标题: 雨辰轨道笔记｜地铁涨价背后：一条地铁线3年安保、安检服务费用超7200万元
+时间: Thu, 17 Sep 2026 14:19:02 +0000
+链接: https://chinadigitaltimes.net/chinese/731888.html
+
+标题: 艾大荀女士｜你能发论文，有多少是公益机构的功劳？
+时间: Thu, 17 Sep 2026 13:49:59 +0000
+链接: https://chinadigitaltimes.net/chinese/731881.html
+
+标题: 昔平｜后来，大家都学会了不说话
+时间: Thu, 17 Sep 2026 13:04:54 +0000
+链接: https://chinadigitaltimes.net/chinese/731873.html
+
+标题: 艾大荀女士｜哪个社交平台更烂？我作为博主的爱和恨
+时间: Thu, 17 Sep 2026 12:00:24 +0000
+链接: https://chinadigitaltimes.net/chinese/731863.html
+
+标题: 极昼工作室｜当农村男人发现自己付不起彩礼
+时间: Thu, 17 Sep 2026 10:00:47 +0000
+链接: https://chinadigitaltimes.net/chinese/731861.html
+
+标题: 【历史上的404】盛世核酸？有人在万民苦困的伤口上撒盐（2022年9月17日）
+时间: Thu, 17 Sep 2026 08:57:00 +0000
+链接: https://chinadigitaltimes.net/chinese/731866.html
+
+标题: 星球商业评论｜钓鱼佬立大功
+时间: Thu, 17 Sep 2026 05:00:40 +0000
+链接: https://chinadigitaltimes.net/chinese/731859.html
+
+来源: 端傳媒 Initium Media
+链接: https://theinitium.com/zh-hans/rss/
+--------------------
+标题: 文心可以由 AI 生成吗？台积电文学奖争议与 AI 时代的写作之辩
+时间: Thu, 17 Sep 2026 23:00:19 GMT
+链接: https://theinitium.com/20260918-taiwan-tsmc-literature-award-and-ai-writing-controversy-zh-hans/
+
+标题: 同志但领导反同志政党？极右小众完全指南
+时间: Thu, 17 Sep 2026 22:59:17 GMT
+链接: https://theinitium.com/20260918-international-far-right-while-minority-zh-hans/
+
+标题: 《NAZA》揭以军平民死亡算式：威尼斯获奖后，导演恐失国籍｜Whatsnew
+时间: Thu, 17 Sep 2026 04:35:46 GMT
+链接: https://theinitium.com/20260917-whatsnew-naza-venice-award-israel-condemn-zh-hans/
+
+标题: 伪史论回旋镖：唐朝“不存在”背后的中国身份政治与代表性危机
+时间: Wed, 16 Sep 2026 23:00:07 GMT
+链接: https://theinitium.com/20260917-mainland-tang-dynasty-pseudo-history-zh-hans/
+
+标题: 监控、杀猪盘、非法蒸馏：如何理解 Anthropic 的 AI 滥用报告？
+时间: Wed, 16 Sep 2026 22:59:12 GMT
+链接: https://theinitium.com/20260917-international-anthropic-threat-intelligence-report-zh-hans/
+
+标题: 【华尔街日报】中国也认为 AI 可能毁灭人类，但当务之急是先赶上美国
+时间: Wed, 16 Sep 2026 22:58:35 GMT
+链接: https://theinitium.com/20260917-wsj-extinction-risk-and-china-us-ai-race-zh-hans/
+
+标题: 尼泊尔特大洪灾现场：一场没有遗体的葬礼｜端闻 Podcast
+时间: Wed, 16 Sep 2026 12:30:11 GMT
+链接: https://theinitium.com/20260916-initium-audio-international-nepal-tibet-flood-aftermath-zh-hans/
+
+标题: 香港首份“五年规划”：强调非计划经济，连同施政报告2026聚焦北都融入国家｜Whatsnew
+时间: Wed, 16 Sep 2026 10:25:56 GMT
+链接: https://theinitium.com/20260916-whatsnew-hongkong-2026-policy-address-five-year-plan-zh-hans/
+
+标题: 前人栽树，后人暴雷：江朱时代背后的赵紫阳阴影
+时间: Tue, 15 Sep 2026 22:59:13 GMT
+链接: https://theinitium.com/20260916-mainland-on-zhurongji-and-chinese-economy-zh-hans/
+
+标题: ​​广州大学城伤人事件，“幸福者退让”社会的无处可退
+时间: Tue, 15 Sep 2026 22:59:00 GMT
+链接: https://theinitium.com/20260916-mainland-guangzhou-attack-zh-hans/
+
+标题: 数说科技：iPhone 为什么越卖越贵？
+时间: Tue, 15 Sep 2026 22:58:41 GMT
+链接: https://theinitium.com/20260916-tech-in-numbers-iphone-18-ai-memory-shortage-zh-hans/
+
+标题: 伊波拉病毒疫情近3500死，民主刚果东部省份深陷多重困境｜Whatsnew
+时间: Tue, 15 Sep 2026 07:30:41 GMT
+链接: https://theinitium.com/20260915-whatsnew-congo-ebola-outbreak-spreading-pandemic-conspiracy-theory-zh-hans/
+
+标题: 科技乌托邦，可以给视障者“一双眼睛”吗？｜互动页面
+时间: Mon, 14 Sep 2026 23:00:17 GMT
+链接: https://theinitium.com/20260915-mainland-can-technology-give-visually-impaired-people-new-ways-of-seeing-zh-hans/
+
+标题: “跨性别”之前，人们如何“跨越性别”：汉学家苏成捷谈清代中国的性别边界
+时间: Mon, 14 Sep 2026 22:59:15 GMT
+链接: https://theinitium.com/20260915-china-in-quesiton-matthew-sommer-transgender-histories-from-late-imperial-china-zh-hans/
+
+标题: 【华尔街日报】三大AI企业掌门人达成共识：模型开发需要降速
+时间: Mon, 14 Sep 2026 22:58:21 GMT
+链接: https://theinitium.com/20260915-wsj-biggest-ai-rivals-agree-they-need-to-slow-it-down-zh-hans/
+
+来源: 少数派
+链接: https://sspai.com/feed
+--------------------
+标题: 派早报：欧盟拟禁止 13 岁以下儿童使用社交媒体等
+时间: Fri, 18 Sep 2026 08:17:34 +0800
+链接: https://sspai.com/post/114699
+
+标题: 城市漫步指南｜威海初秋，看海玩沙
+时间: Thu, 17 Sep 2026 17:47:28 +0800
+链接: https://sspai.com/post/114557
+
+标题: 具透 | macOS 27 正式版来了，这些是你值得了解新细节
+时间: Thu, 17 Sep 2026 15:00:00 +0800
+链接: https://sspai.com/post/114643
+
+标题: 一个小创意的诞生：BeatBox 雪漫天外壳定制指南
+时间: Thu, 17 Sep 2026 11:11:01 +0800
+链接: https://sspai.com/post/114451
+
+标题: 派早报：佳能发布 EOS R8 Mark II、GPT-5.5 即将下线等
+时间: Thu, 17 Sep 2026 08:25:30 +0800
+链接: https://sspai.com/post/114658
+
+标题: 探秘柬埔寨，千年吴哥窟
+时间: Wed, 16 Sep 2026 17:33:41 +0800
+链接: https://sspai.com/post/114454
+
+标题: 具透 | Liquid Glass 设计改进、性能提升……iPadOS 27 中值得一瞥的新特性
+时间: Wed, 16 Sep 2026 15:00:00 +0800
+链接: https://sspai.com/post/114607
+
+标题: 当我怀念旧版 Edge 浏览器时，我在怀念什么？
+时间: Wed, 16 Sep 2026 10:38:34 +0800
+链接: https://sspai.com/post/113295
+
+标题: 社区速递 158 | 便宜耐造的副厂手柄与大学宿舍里那些相见恨晚的装备
+时间: Tue, 15 Sep 2026 17:00:00 +0800
+链接: https://sspai.com/post/114613
+
+标题: 具透 | 精心优化， 体验感愉悦升华：iOS 27 中值得关注的新特性
+时间: Tue, 15 Sep 2026 15:00:00 +0800
+链接: https://sspai.com/post/114565
+
