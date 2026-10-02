@@ -1,0 +1,141 @@
+=== 新闻抓取报告 ===
+抓取时间: 2026-10-02 04:15:42
+==============================
+
+来源: 中国数字时代
+链接: https://chinadigitaltimes.net/chinese/feed
+--------------------
+标题: 每日一语 2026.10.1
+时间: Fri, 02 Oct 2026 03:47:08 +0000
+链接: https://chinadigitaltimes.net/chinese/732451.html
+
+标题: 呦呦鹿鸣｜那英演唱会后，“举报式采访”诞生
+时间: Fri, 02 Oct 2026 03:30:54 +0000
+链接: https://chinadigitaltimes.net/chinese/732444.html
+
+标题: 【翻车现场】老胡，“需要我帮你通篇通读再核对一遍零遗漏，确保完全贴合你的口述原文吗？”
+时间: Fri, 02 Oct 2026 03:27:31 +0000
+链接: https://chinadigitaltimes.net/chinese/732447.html
+
+标题: 四环青年｜村民捐建教学楼停工12年，谁让爱心烂尾
+时间: Fri, 02 Oct 2026 03:15:52 +0000
+链接: https://chinadigitaltimes.net/chinese/732440.html
+
+标题: 新闻哥｜我考不过你，还举报不过你吗？
+时间: Fri, 02 Oct 2026 03:00:21 +0000
+链接: https://chinadigitaltimes.net/chinese/732437.html
+
+标题: 思想的回廊｜举报成瘾与行政膝跳：从那英演唱会看近期几起举报现象
+时间: Fri, 02 Oct 2026 02:45:19 +0000
+链接: https://chinadigitaltimes.net/chinese/732434.html
+
+标题: 流浪的木白｜哈工大翻墙举报事件，恶的不是那个举报的女生
+时间: Fri, 02 Oct 2026 02:26:25 +0000
+链接: https://chinadigitaltimes.net/chinese/732432.html
+
+来源: 端傳媒 Initium Media
+链接: https://theinitium.com/zh-hans/rss/
+--------------------
+标题: 从「巧克力」到国安指控：北京理工大学法学教师如何被举报解聘｜Whatsnew
+时间: Fri, 02 Oct 2026 04:00:24 GMT
+链接: https://theinitium.com/20261002-whatsnew-bit-professor-feminism-course-fired-zh-hans/
+
+标题: 那个我们终将面对的房间 —— 照顾者小群组对谈，台北11月场次开放报名中
+时间: Fri, 02 Oct 2026 02:44:50 GMT
+链接: https://theinitium.com/20261002-longterm-care-questionnaire-event-zh-hans/
+
+标题: 逃离中国的维吾尔人，为何加入叙利亚内战？专访《唯红花绽放》作者冯哲芸
+时间: Thu, 01 Oct 2026 23:00:59 GMT
+链接: https://theinitium.com/20261002-international-emily-feng-uyghur-militants-in-syria-zh-hans/
+
+标题: 香港狗咬人事故：从人宠共融到全城猎狗，狗只管理链是如何断裂的？
+时间: Thu, 01 Oct 2026 22:59:45 GMT
+链接: https://theinitium.com/20261002-hongkong-fighting-dog-controversy-after-fatal-attack-zh-hans/
+
+标题: 会员限定！完成限时任务抽《反对普丁的无名先生》电影票
+时间: Thu, 01 Oct 2026 11:00:00 GMT
+链接: https://theinitium.com/20261001-movie-ticket-zh-hans/
+
+标题: 当“告洋状”成为爽文：没有联盟的复仇者
+时间: Wed, 30 Sep 2026 23:00:21 GMT
+链接: https://theinitium.com/20261001-mainland-labor-dispute-avengers-zh-hans/
+
+标题: 【华尔街日报】华尔街对秋季 IPO 热潮的期待降温
+时间: Wed, 30 Sep 2026 22:58:42 GMT
+链接: https://theinitium.com/20261001-wsj-wall-streets-fall-ipo-boom-is-losing-steam-zh-hans/
+
+标题: AI讲台语，长辈为何有听没有懂？｜端闻 Podcast
+时间: Wed, 30 Sep 2026 09:30:24 GMT
+链接: https://theinitium.com/20260930-initium-audio-can-ai-speak-taiwanese-for-healthcare-zh-hans/
+
+标题: 放弃本科读职校，中国职校生终于“逆袭”了吗？
+时间: Tue, 29 Sep 2026 23:00:24 GMT
+链接: https://theinitium.com/20260930-mainland-vocational-training-in-china-zh-hans/
+
+标题: 深海是一门好生意吗？一艘无人使用的科考船，与中国的深海淘金梦
+时间: Tue, 29 Sep 2026 22:59:15 GMT
+链接: https://theinitium.com/20260930-mainland-chinas-deepsea-mining-business-zh-hans/
+
+标题: 数说科技：从立场到文化，AI 让我们的写作越来越像
+时间: Tue, 29 Sep 2026 22:58:41 GMT
+链接: https://theinitium.com/20260930-tech-in-numbers-ai-writing-homogenization-zh-hans/
+
+标题: 西藏民主化65年后，流亡藏人政府如何准备“后达赖喇嘛时代”？｜Whatsnew
+时间: Tue, 29 Sep 2026 10:30:52 GMT
+链接: https://theinitium.com/20260928-whatsnew-exiled-tibetan-democracy-day-lobga-rangzen-sacrifice-zh-hans/
+
+标题: 2026，中国的加税大年：为甚么经济越差，征税越严？
+时间: Mon, 28 Sep 2026 23:00:13 GMT
+链接: https://theinitium.com/20260929-mainland-taxing-china-zh-hans/
+
+标题: 抵达欧洲，仍未自由：中国酷儿如何向德国庇护体系证明自己？
+时间: Mon, 28 Sep 2026 22:59:20 GMT
+链接: https://theinitium.com/20260929-international-chinese-queer-asylum-seekers-in-germany-zh-hans/
+
+标题: 【华尔街日报】中国催婚催生出奇招：婚姻登记处打造成“浪漫圣地”
+时间: Mon, 28 Sep 2026 22:58:00 GMT
+链接: https://theinitium.com/20260929-wsj-china-wants-more-babies-zh-hans/
+
+来源: 少数派
+链接: https://sspai.com/feed
+--------------------
+标题: 从玩家的世界掠过：Bungie 的「列车」如何驶向终焉
+时间: Wed, 30 Sep 2026 22:32:58 +0800
+链接: https://sspai.com/post/115070
+
+标题: 经典任务管理软件的现代重构：新版 2Do 详解
+时间: Wed, 30 Sep 2026 15:00:00 +0800
+链接: https://sspai.com/post/115166
+
+标题: 别再把攻略全甩给 AI：国庆七天河南自驾，我是这样用 Agent 的
+时间: Wed, 30 Sep 2026 11:02:18 +0800
+链接: https://sspai.com/post/114945
+
+标题: 派早报：OpenAI 发布 Dot 智能体、Apple 移动睡眠呼吸暂停迹象提示软件国内获批等
+时间: Wed, 30 Sep 2026 07:39:21 +0800
+链接: https://sspai.com/post/115197
+
+标题: 社区速递 160 | 水月雨首款游戏耳机与八月派友剁手清单
+时间: Tue, 29 Sep 2026 17:03:00 +0800
+链接: https://sspai.com/post/115153
+
+标题: 更懂你的心，也更懂你：Apple Watch Series 12 体验
+时间: Tue, 29 Sep 2026 15:44:46 +0800
+链接: https://sspai.com/post/115061
+
+标题: 可塑的白昼：ColorOS17 深度评测
+时间: Tue, 29 Sep 2026 11:28:25 +0800
+链接: https://sspai.com/post/114728
+
+标题: 派早报：荣耀发布荣耀 Magic9 系列，鸿蒙智行发布智界 RX 等
+时间: Tue, 29 Sep 2026 08:09:05 +0800
+链接: https://sspai.com/post/115134
+
+标题: 派评 | 近期值得关注的 App
+时间: Mon, 28 Sep 2026 17:45:02 +0800
+链接: https://sspai.com/post/115094
+
+标题: 基于 Termux 的 Android 手机开发服务器实操
+时间: Mon, 28 Sep 2026 17:33:03 +0800
+链接: https://sspai.com/prime/story/dev-env-on-android-with-termux
+
