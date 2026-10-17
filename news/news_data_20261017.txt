@@ -1,0 +1,141 @@
+=== 新闻抓取报告 ===
+抓取时间: 2026-10-17 03:09:25
+==============================
+
+来源: 中国数字时代
+链接: https://chinadigitaltimes.net/chinese/feed
+--------------------
+标题: 每日一语 2026.10.16
+时间: Sat, 17 Oct 2026 00:32:08 +0000
+链接: https://chinadigitaltimes.net/chinese/732968.html
+
+标题: 孙旭阳｜真正被调查的，是懂车帝
+时间: Sat, 17 Oct 2026 00:25:48 +0000
+链接: https://chinadigitaltimes.net/chinese/732966.html
+
+标题: 历史押韵｜特斯拉飞天 vs 刹车踏板断裂，三部门彻查背后，谁在遥遥领先？
+时间: Sat, 17 Oct 2026 00:14:31 +0000
+链接: https://chinadigitaltimes.net/chinese/732964.html
+
+标题: 【404文库】大话刑辩REAL｜重庆打黑警察熊峰转行为刑辩律师
+时间: Fri, 16 Oct 2026 23:22:24 +0000
+链接: https://chinadigitaltimes.net/chinese/732962.html
+
+标题: 太阳照常升起｜如何看对尊界事件的联合调查
+时间: Fri, 16 Oct 2026 18:06:10 +0000
+链接: https://chinadigitaltimes.net/chinese/732961.html
+
+标题: 中国民间档案馆｜寻找高斌：一位文学教授在“红八月”决意去死
+时间: Fri, 16 Oct 2026 05:57:57 +0000
+链接: https://chinadigitaltimes.net/chinese/732956.html
+
+标题: 再想想Rethink｜奇帆饮冰
+时间: Fri, 16 Oct 2026 05:55:43 +0000
+链接: https://chinadigitaltimes.net/chinese/732953.html
+
+来源: 端傳媒 Initium Media
+链接: https://theinitium.com/zh-hans/rss/
+--------------------
+标题: 从50后到00后，理疗店里的故事
+时间: Fri, 16 Oct 2026 23:00:00 GMT
+链接: https://theinitium.com/20261017-job-inside-out-stories-from-a-chinese-massage-spa-zh-hans/
+
+标题: 这一周，不漏读：CNN易主之后
+时间: Fri, 16 Oct 2026 12:50:00 GMT
+链接: https://theinitium.com/20261016-weekly-zh-hans/
+
+标题: 9月中国维权：劳权关注者小五遭疲劳审讯；云南烟农抗议收购压价｜Whatsnew
+时间: Fri, 16 Oct 2026 02:55:00 GMT
+链接: https://theinitium.com/20261016-china-september-right-protection-activities-zh-hans/
+
+标题: 派拉蒙吞下华纳兄弟：CNN易主天舞集团，编辑独立能维持吗？｜Whatsnew
+时间: Fri, 16 Oct 2026 01:55:00 GMT
+链接: https://theinitium.com/20261016-whatsnew-paramount-warner-merger-sparked-fears-about-press-freedom-zh-hans/
+
+标题: 从大罢免到毒品：针对沈伯洋的攻击奏效了吗？
+时间: Thu, 15 Oct 2026 23:00:00 GMT
+链接: https://theinitium.com/20261016-taiwan-has-attack-on-puma-shen-worked-zh-hans/
+
+标题: 端传媒五项作品入围第二十五届卓越新闻奖
+时间: Thu, 15 Oct 2026 22:59:00 GMT
+链接: https://theinitium.com/20261016-initiumnews-excellent-journalism-awards-2026-zh-hans/
+
+标题: 国家能不能强迫女性“自由”？意大利校园遮面禁令的悖论
+时间: Wed, 14 Oct 2026 22:59:00 GMT
+链接: https://theinitium.com/20261015-international-italy-face-veil-ban-and-womens-freedom-zh-hans/
+
+标题: 【华尔街日报】习近平的超级大国雄心推动中国陷入危险的债务膨胀循环
+时间: Wed, 14 Oct 2026 22:58:00 GMT
+链接: https://theinitium.com/20261015-wsj-xi-jinping-superpower-ambitions-and-china-debt-spiral-zh-hans/
+
+标题: 选战必争之地新北市：民进党苏巧慧民调大赢，推估得票为何只差4点？｜Whatsnew
+时间: Wed, 14 Oct 2026 22:58:00 GMT
+链接: https://theinitium.com/20261015-whatsnew-taiwan-local-elections-new-taipei-city-mayor-zh-hans/
+
+标题: AI 管理瑞幸咖啡店，员工为什么越来越累？｜端闻 Podcast
+时间: Wed, 14 Oct 2026 10:30:00 GMT
+链接: https://theinitium.com/20261014-initium-audio-mainland-luckin-coffee-ai-transformation-zh-hans/
+
+标题: 跟监、泼粪、打人案接连起诉，台湾法律管得了跨境镇压吗？｜Whatsnew
+时间: Wed, 14 Oct 2026 02:52:00 GMT
+链接: https://theinitium.com/20261014-whatsnew-taiwan-china-transnational-repression-prosecution-zh-hans/
+
+标题: 北理工教师裴轶事件：被冒犯的新世代，和清零式举报网络
+时间: Tue, 13 Oct 2026 23:00:00 GMT
+链接: https://theinitium.com/20261014-mainland-pei-yi-sacked-zh-hans/
+
+标题: 暧昧的蔡康永，与粗暴解读下的政治现实
+时间: Tue, 13 Oct 2026 22:59:00 GMT
+链接: https://theinitium.com/20261013-taiwan-interpreting-kevin-tsai-zh-hans/
+
+标题: 数说科技：承诺不与民抢水，台积电却悄悄拿掉 60% 再生水目标
+时间: Tue, 13 Oct 2026 22:58:00 GMT
+链接: https://theinitium.com/20261014-tech-in-numbers-tsmc-missing-recycled-water-target-zh-hans/
+
+标题: 补看周末：胡塞武装连袭沙特机场至少13死
+时间: Tue, 13 Oct 2026 04:37:04 GMT
+链接: https://theinitium.com/20261012-weekly-zh-hans/
+
+来源: 少数派
+链接: https://sspai.com/feed
+--------------------
+标题: 本周看什么 | 最近值得一看的 13 部作品
+时间: Fri, 16 Oct 2026 18:21:07 +0800
+链接: https://sspai.com/post/116423
+
+标题: 「弯道超车」赛车入门指北 05：让赛车粉身碎骨，才是保命的真正方式
+时间: Fri, 16 Oct 2026 14:24:47 +0800
+链接: https://sspai.com/post/114836
+
+标题: 一面专注体验，一面表达个性：麦金獭钢化膜与极稚墨水屏手机壳体验
+时间: Fri, 16 Oct 2026 12:41:05 +0800
+链接: https://sspai.com/post/115679
+
+标题: 让读书笔记不再吃灰：我做了一款跨平台书摘管理工具
+时间: Fri, 16 Oct 2026 10:18:38 +0800
+链接: https://sspai.com/post/115688
+
+标题: 派早报：Apple 智能国行 Beta 版本将于本月晚些时候上线测试版本
+时间: Fri, 16 Oct 2026 08:23:12 +0800
+链接: https://sspai.com/post/116355
+
+标题: 新玩意 253｜少数派的编辑们最近买了啥？
+时间: Thu, 15 Oct 2026 17:10:14 +0800
+链接: https://sspai.com/post/116246
+
+标题: 顺应变化，重申标准：《少数派创作手册》修订说明
+时间: Thu, 15 Oct 2026 16:09:12 +0800
+链接: https://sspai.com/post/116181
+
+标题: 学得会的快捷指令，零基础入门苹果效率魔法
+时间: Thu, 15 Oct 2026 14:30:00 +0800
+链接: https://sspai.com/post/116182
+
+标题: App+1｜Mangata：把每次散步当作一次探索旅行
+时间: Thu, 15 Oct 2026 11:00:00 +0800
+链接: https://sspai.com/post/115238
+
+标题: 派早报：Mozilla 推出企业版火狐浏览器、DLSS 5 最新模型即将推送等
+时间: Thu, 15 Oct 2026 08:31:01 +0800
+链接: https://sspai.com/post/116193
+
